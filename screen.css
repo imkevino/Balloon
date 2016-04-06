@@ -41,22 +41,7 @@ header {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  text-align: center;
-}
+
 
 header h1 blockquote q {
 font-family: 'musket' , Helvetica , sans-serif;
@@ -85,7 +70,7 @@ p {
 
 ul {
     list-style-type: none;
-    margin: 0;
+    
     padding: 0;
     overflow: hidden;
 }
